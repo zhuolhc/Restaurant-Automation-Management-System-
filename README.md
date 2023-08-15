@@ -8,6 +8,6 @@ p {
 			text-align: justify;
 		}
   <p>如果此项目对您有帮助，请给我一个star呦</p>
-  <p>反对996，我辈义不容辞！</p>
+
 <a href="https://996.icu"><img src="https://img.shields.io/badge/link-996.icu-red.svg" alt="996.icu" /></a>
-[![LICENSE](https://img.shields.io/badge/license-Anti%20996-blue.svg)](https://github.com/996icu/996.ICU/blob/master/LICENSE)
+
